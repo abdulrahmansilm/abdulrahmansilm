@@ -1,16 +1,31 @@
-## Hi there 👋
+Hey, I'm Abdulrahman 👋
+Computer Science student at TU Darmstadt · passionate about building things & self-driven learning
 
-<!--
-**abdulrahmansilm/abdulrahmansilm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
+I love programming and constantly improving my skills — not because I have to, but because it genuinely excites me.
+Currently working on my personal portfolio website and looking for my first role in the industry.
+📍 Darmstadt, Germany · 🎓 B.Sc. Informatik · 🔍 Open to opportunities
 
-Here are some ideas to get you started:
+Tech stack
+Bild anzeigen
+Bild anzeigen
+Bild anzeigen
+Bild anzeigen
+Bild anzeigen
+Bild anzeigen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+
+✈️ TravelAgency — A travel agency web app · View on GitHub
+🌐 Personal Portfolio (in progress) — My own website to present myself, built for practice & self-promotion
+
+
+Currently
+
+🏗️ Building my personal portfolio website
+📚 Always learning something new
+🔍 Looking for my first opportunity in the industry
+
+
+GitHub Stats
+Bild anzeigen abdulrahmansilm
