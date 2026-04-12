@@ -26,16 +26,16 @@ Currently working on my personal portfolio website and looking for my first role
 
 ## Projects
 
-- **✈️ TravelAgency** — A travel agency web app · [View on GitHub](https://github.com/Abdulrahman/TravelAgency)
-- **🌐 Personal Portfolio** *(in progress)* — My own website to present myself, built for practice & self-promotion
+- ** TravelAgency** — A travel agency web app · [View on GitHub](https://github.com/Abdulrahman/TravelAgency)
+- ** Personal Portfolio** *(in progress)* — My own website to present myself, built for practice & self-promotion
 
 ---
 
 ## Currently
 
-- 🏗️ Building my personal portfolio website
-- 📚 Always learning something new
-- 🔍 Looking for my first opportunity in the industry
+-  Building my personal portfolio website
+-  Always learning something new
+-  Looking for my first opportunity in the industry
 
 ---
 
