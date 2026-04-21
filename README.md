@@ -39,6 +39,3 @@ Currently working on my personal portfolio website and looking for my first role
 
 ---
 
-## GitHub Stats
-
-![Abdulrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrahmansilm&show_icons=true&theme=default&hide_border=true)
