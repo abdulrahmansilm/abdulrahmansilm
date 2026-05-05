@@ -6,10 +6,10 @@ Computer Science student at TU Darmstadt · passionate about building things & s
 
 ## About me
 
-I love programming and constantly improving my skills — not because I have to, but because it genuinely excites me.
-Currently working on my personal portfolio website and looking for my first role in the industry.
+constantly improving my skills — not because I have to, but because it genuinely excites me.
 
-📍 Darmstadt, Germany · 🎓 B.Sc. Informatik · 🔍 Open to opportunities
+
+ Darmstadt, Germany ·  B.Sc. Informatik ·  Open to opportunities
 
 ---
 
@@ -28,6 +28,7 @@ Currently working on my personal portfolio website and looking for my first role
 
 -  **TravelAgency** — A travel agency web app · [View on GitHub](https://github.com/Abdulrahman/TravelAgency)
 -  **Personal Portfolio** *(in progress)* — My own website to present myself, built for practice & self-promotion
+-  Machine Learning (kaggle)
 
 ---
 
