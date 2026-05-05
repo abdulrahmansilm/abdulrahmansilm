@@ -1,6 +1,6 @@
 # Hey, I'm Abdulrahman 👋
 
-Computer Science student at TU Darmstadt · passionate about building things & self-driven learning
+Computer Science student at HDA Darmstadt 
 
 ---
 
