@@ -26,7 +26,6 @@ constantly improving my skills — not because I have to, but because it genuine
 ## Projects
 
 -  **TravelAgency** — A travel agency web app · [View on GitHub](https://github.com/Abdulrahman/TravelAgency)
--  **Personal Portfolio** *(in progress)* — My own website to present myself, built for practice & self-promotion
 -  Machine Learning (kaggle)
 
 ---
